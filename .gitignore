@@ -1,0 +1,9 @@
+build
+dist
+include
+lib
+bin
+lib64
+*.spec
+__pycache__
+*.cfg
